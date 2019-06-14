@@ -1,0 +1,18 @@
+.location{
+    display: inline-block;
+    border: solid 1px gray;
+    border-radius: 10px;
+    width: 17%;
+    margin: 5% 1% 10% 1%;
+    padding: 10% 0%;
+    text-align: center;
+    transform: scale(1);-webkit-transform: scale(1);-moz-transform: scale(1);-ms-transform: scale(1);-o-transform: scale(1); transition: all 0.7s ease-in-out;
+}
+.location:hover{
+     transform: scale(1.2);-webkit-transform: scale(1.2);-moz-transform: scale(1.2);-ms-transform: scale(1.2);-o-transform: scale(1.2);
+}
+
+section{
+    margin-left: 10%;
+    margin-right: 10%;
+}

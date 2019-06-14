@@ -1,0 +1,11 @@
+.btn:hover{ background-color:#dcdcdc; }
+input.btn2{width: 200px;}
+.btn2{width:30%; height:300px; float:left; padding-left: 50px;
+    transform: scale(1);-webkit-transform: scale(1);-moz-transform: scale(1);-ms-transform: scale(1);-o-transform: scale(1); transition: all 0.8s ease-in-out;}
+.btn2:hover{transform: scale(1.15);-webkit-transform: scale(1.15);-moz-transform: scale(1.15);-ms-transform: scale(1.15);-o-transform: scale(1.15);}
+.image{width:50%; height:300px; margin:0 auto; overflow:hidden;}
+nav a:link{color:black;text-decoration:none}
+nav a:visited{color:black;text-decoration:none}
+span{font-size:12px; color:#969696;}
+hr{text-align:center; width:50%; color:#646464;}
+.text{text-align:center;padding-top:30px; float:right;width:60%;height:300px;position:relative;background-color:#FFFFFF}

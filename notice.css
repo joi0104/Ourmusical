@@ -1,0 +1,14 @@
+.btn:hover{ background-color:#dcdcdc; }
+	nav a:link{color:black;text-decoration:none}
+	nav a:visited{color:black;text-decoration:none}
+	span{font-size:12px; color:#969696;}
+	hr{text-align:center; width:70%; color:#646464;}	
+	section td{vertical-align:top;border-bottom:1.3px solid #dcdcdc;}
+	section div{height:60px;text-align:center;margin:0 auto; display:table;}
+	summary img{float:left; width:8%;}
+	summary{cursor:pointer;}
+	section span{color:white;}
+	summary::-webkit-details-marker{display:none;}
+	.div2{display:table-cell; vertical-align:middle;}
+	@keyframes textColorAnimation{ 0%{color:white;} 30%{color:red;} 70%{color:white;} 100% {color:red;} } 
+	em { animation-name : textColorAnimation; animation-duration : 2s; animation-iteration-count : infinite; } 
