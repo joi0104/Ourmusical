@@ -1,1 +1,1 @@
-our-musical
+ourmusical
